@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="sem5.css">
+</head>
+<body>
+
+<div class="long"></div>
+  <header>
+    <h1>Welcome To Our Website</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png">
+    <p>Descriptiondescriptiondescriptiondescription </p>
+</header>
+</div>
+
+<nav>
+    <ul>
+        <li><a href="www.google.Welcome">Option</a></li>
+        <li><a href="www.google.Welcome">Option</a></li>
+        <li><a href="www.google.Welcome">Option Option</a></li>
+    </ul>
+</nav>
+
+<header>
+    <h2> (Header)</h2>
+</header>
+
+<article>
+
+    <section>
+        <h3> (Section Description)</h3>
+        <p> BlahBlahBlahBlahBlahBlahBlah</p>
+    </section>
+
+    <section>
+        <h3> (Section Description)</h3>
+        <p>BlahBlahblahblahblahblahblahblah</p>
+        <p> .</p>
+    </section>
+
+    <footer>
+        <h4>Some other lines </h4>
+    </footer>
+
+</article>
+
+<aside>
+
+    <h2>(Aside)</h2>
+    <p>blah blah blah blah blah</p>
+</aside>
+
+<footer>
+    <ul>
+        <li>Copyright </li>
+    </ul>
+</footer>
+
+</body>
+</html>
