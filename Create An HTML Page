@@ -1,27 +1,25 @@
-<style>
-h1{
-color: red;
-}
-</style>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>CIT-85</title>
+  <style>
+    h1 {
+      color:darkslategray;
+    }
+  </style>
 </head>
 <body>
-
-<h1> Grocery List </h1>
-<p> hello my name is louis i am writing this list based on the grocery list I am purchasing </p>
-
-<ul>
-  <li>Water</li>
-  <li>Popcorn</li>
-  <li>Bread</li>
-  <li>Chicken</li>
-  <li>Milk</li>
-  <li>Bananas</li>
-  <li>Eggs</li>
-  <li>Apple juice</li>
-  <li>Salt</li>
-  <li>Yogurt</li>
-  <li>Peanut butter</li>
-  <li>Honey</li>
-</ul>
-
+  <h1>Our First HTML Page</h1>
+  <p>Getting our feet wet with HTML and CSS</p>
+  <ul>
+    <li> header tag.</li>
+    <li> paragraph Tag.</li>
+    <li>A style tag that modifies the default color of all h1 tags.</li>
+    <li>And unorderd list of the tags used.</li>
+  </ul>
+</body>
+</html>
