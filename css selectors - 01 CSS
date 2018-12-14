@@ -1,33 +1,19 @@
- {
-    color:red
+
+a {
+  background-color: white;
+  border: 1px solid white;
 }
-.ten {
-    color:blue
+
+a:visited {
+  background-color: yellow;
+  border-color: hotpink;
+  color: hotpink;
 }
-.twenty {
-    color:teal
+
+a:hover { 
+    background-color: purple;
 }
-.thirty {
-    color: blueviolet
-}
-.fourty {
-    color: cornflowerblue
-}
-.fifty {
-    color: darkgreen
-}
-.sixty {
-    color:darkorange
-}
-.seventy {
-    color:deeppink
-}
-.eighty {
-    color:fuchsia
-}
-.ninety {
-    color:grey
-}
-.ninetynine {
-    color:dodgerblue 
+
+a:active { 
+    background-color: red;
 }
